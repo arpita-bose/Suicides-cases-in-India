@@ -8,8 +8,8 @@ import plotly.express as px
 from PIL import Image
 
 #Assests----
-img = Image.open(r'Image\Depression-bro (2).png')
-img1 = Image.open(r'Image\Depression-rafiki.png')
+img = Image.open(r'Depression-bro (2).png')
+img1 = Image.open(r'Depression-rafiki.png')
 attribute = "People illustrations by Storyset"
 
 #page styling-----
