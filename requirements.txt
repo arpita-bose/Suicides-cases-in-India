@@ -3,3 +3,4 @@ Pillow==9.2.0
 plotly==5.10.0
 streamlit==1.12.2
 tinkerer==1.7.2
+openpyxl==3.0.10
